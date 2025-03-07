@@ -54,7 +54,7 @@
 - 📊 **Analytics dashboard for event performance tracking**
 
   ## 🌟 Team 🌟
-- Oanea Alexandru-Gabriel (Tean Lead, FullStack)
+- Oanea Alexandru-Gabriel (Team Lead, FullStack)
 - Călin Năvădaru (FullStack)
 - Victor Mureșan (FullStack)
 - Andreea Maria Mureșan (FrontEnd)
