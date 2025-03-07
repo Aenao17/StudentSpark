@@ -8,17 +8,20 @@
 - 📅 **Event Management** – Add, display, and manage upcoming events.
 - 📝 **Post and Comment System** – Share updates and discussions within events.
 - ✅ **Task Management** – Assign and track event-related tasks.
-- 🌍 **Community Engagement** – Foster interaction through posts and comments.
 
 ## 🛠️ Technologies Used
 - **Frontend:** Ionic Angular
 - **Backend:** Spring Boot (Java)
 - **Database:** PostgreSQL
 
+## Repository Links
+- **Frontend:** https://github.com/Aenao17/Spark-FE
+- **Backend:** https://github.com/FaneMuri/Spark-BE
+
 ## 🚀 Installation & Setup
 1. **Clone the Frontend Repository:**  
    ```sh
-   git clone https://github.com/Aenao17/FrontendPC.git
+   git clone https://github.com/Aenao17/Spark-FE
    ```
 2. **Clone the Backend Repository:**  
    ```sh
@@ -49,16 +52,4 @@
 - 📢 **Event notifications and reminders**
 - 📆 **Calendar integration for event scheduling**
 - 📊 **Analytics dashboard for event performance tracking**
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
-## 📞 Contact
-For inquiries, reach out via [your.email@example.com] or open an issue in the repository.
-
----
-Empower student associations with **Student Spark**! 🚀
 
