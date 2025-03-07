@@ -53,3 +53,16 @@
 - 📆 **Calendar integration for event scheduling**
 - 📊 **Analytics dashboard for event performance tracking**
 
+  ## 🌟 Team 🌟
+- Oanea Alexandru-Gabriel (Tean Lead, FullStack)
+- Călin Năvădaru (FullStack)
+- Victor Mureșan (FullStack)
+- Andreea Maria Mureșan (FrontEnd)
+- Maria Oșan (FrontEnd)
+- Daniel Mureșan (Backend)
+- Alexandru Nicolescu (Backend)
+- Tudor Pînzaru (Backend)
+- George Popovici (Backend)
+- Ognean Mihnea (FrontEnd, Tester)
+- Oltyan Octavian (Backend, Tester)
+
